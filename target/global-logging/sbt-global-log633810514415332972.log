@@ -1,0 +1,9 @@
+[debug] > Exec(all {file:/C:/Users/Carlos%20Orduz/Documents/9no%20Semestre/PFSD/Example/}root/products {file:/C:/Users/Carlos%20Orduz/Documents/9no%20Semestre/PFSD/Example/}root/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Carlos Orduz\Documents\9no Semestre\PFSD\Example\target\scala-2.13\classes ...
+[info] done compiling
+[success] Total time: 1 s, completed 10/11/2022 11:54:43 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
